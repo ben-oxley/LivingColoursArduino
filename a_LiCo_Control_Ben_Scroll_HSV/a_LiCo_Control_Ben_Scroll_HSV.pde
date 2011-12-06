@@ -183,7 +183,7 @@ void loop()
           Blue++;
         }
       } else {
-        if ( Blue > 0 ) {
+        if ( Blue > 1 ) {
           Blue--;
         }
       }
